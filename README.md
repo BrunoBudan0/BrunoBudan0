@@ -1,5 +1,5 @@
-# 💫 About Me:
-Junior Software Developer focused on web systems and backend development, with hands-on experience delivering production-ready solutions through Jr.FEI.<br>Desenvolvedor Júnior com foco em sistemas web e backend, atuando em projetos reais e soluções em produção pela Jr.FEI.
+# 👤 About Me:
+Software Developer focused on web systems and backend development, with hands-on experience delivering production-ready solutions through Jr.FEI.<br>Desenvolvedor com foco em sistemas web e backend, atuando em projetos reais e soluções em produção pela Jr.FEI.
 
 
 ## 🌐 Socials:
